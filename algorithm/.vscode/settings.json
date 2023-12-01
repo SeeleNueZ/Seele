@@ -3,6 +3,7 @@
         "ostream": "cpp",
         "ctime": "cpp",
         "cstdlib": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "*.tcc": "cpp"
     }
 }
