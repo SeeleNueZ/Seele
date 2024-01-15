@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
+#include <string.h>
 using namespace std;
 
 const int maxnum=101;

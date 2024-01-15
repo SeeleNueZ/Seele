@@ -41,7 +41,9 @@ int main()
         arr[i]=u(e);
     }
     sort(arr,arr+50);
+
     cout<<Search(arr,20,50)<<endl;
+    
     for(int i=0;i<((sizeof(arr)/sizeof(int)));i++)
     {
         cout<<i+1<<":"<<arr[i]<<endl;

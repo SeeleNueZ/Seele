@@ -19,7 +19,7 @@ void Traceback();
 
 int main()
 {
-	cout << "【动态规划】0-1背包问题\n\n";
+	//cout << "【动态规划】0-1背包问题\n\n";
 
 	// 输入
 	Data_input();
